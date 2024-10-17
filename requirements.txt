@@ -275,8 +275,6 @@ typing_extensions==4.12.2
 tzdata==2024.2
 ujson==5.10.0
 umap-learn==0.5.6
-urllib3==2.2.3
-urllib3-secure-extra==0.1.0
 uuid6==2024.7.10
 uvicorn==0.31.0
 visions==0.7.6
