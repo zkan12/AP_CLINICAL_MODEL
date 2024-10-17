@@ -6,7 +6,7 @@ import shap
 import matplotlib.pyplot as plt
 
 # Load the model
-model = joblib.load(r"C:\Users\zhang\Downloads\clnical.pkl")
+model = joblib.load("clnical.pkl")
 
 # Define feature names
 feature_names = [
